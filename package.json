@@ -10,6 +10,7 @@
     "build": "webpack --config webpack/webpack.prod.js"
   },
   "devDependencies": {
+    "babel-loader": "^8.2.2",
     "css-loader": "^5.2.0",
     "eslint": "^7.24.0",
     "eslint-config-airbnb-base": "^14.2.1",
