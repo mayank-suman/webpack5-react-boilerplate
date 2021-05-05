@@ -1,7 +1,5 @@
-import initApp from './app';
+import initReactApp from './components/app.jsx';
 
-if (module.hot) {
-  module.hot.accept('./app.js', () => {
-    initApp();
-  });
-}
+(function init() {
+  initReactApp();
+})();
