@@ -1,1 +1,1 @@
-# webpack 5 vanilla js boilerplate
+# webpack 5 react boilerplate
